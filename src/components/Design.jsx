@@ -12,7 +12,7 @@ export default function Design() {
                     <Description />
                 </Grid>
                 <Grid item xs={11} >
-                    <Graph />
+{/*                     <Graph /> */}
                 </Grid>
             </Grid>
 
