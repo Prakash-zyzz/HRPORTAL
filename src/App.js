@@ -1,5 +1,5 @@
 import { Card, Grid } from '@mui/material';
-import './App.css';
+import React from 'react';
 import Header from './components/Header';
 import Navbar from '../src/components/Navbar'
 import DD from './components/DD'
