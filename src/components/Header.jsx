@@ -63,7 +63,7 @@ export default function Header() {
                                     <IconButton sx={{ color: 'purple' }}>
                                         <SettingsIcon />
                                     </IconButton>
-                                    
+                                    <Avatar alt="SK" src="avatar.png" sx={{ width: 40, height: 40, mt: 2 }} />
                                 </Stack>
                             </Grid>
                         </Grid>
